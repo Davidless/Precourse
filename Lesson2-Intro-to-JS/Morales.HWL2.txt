@@ -1,0 +1,5 @@
+* Variables - variables are the elements we assign some value to for use throughout our code later
+* Strings - strings are blocks of text and must always be in quotes
+* Functions (arguments, `return`) functions are essentially processes that happen without code that utilize variables as arguments and a return element to spit data out of the function. without the return element, functions would have no way of communicating their results for use in the rest of our code.
+* `if` statements - "if" statements are conditions under which certain arguments are read. when an if statement is introduced, the code will be read such that "if" a certain condition is met, then a certain result will be granted.
+* Boolean values (`true`, `false`) - boolean values tell us when something is true or false; you only have these options.
