@@ -1,0 +1,4 @@
+* Callback Functions - the ability to pass a function as an argument to another function.
+* `arguments` - arguments are an array-like object that corresponds to an actual argument in a function.
+* `prototype` - classes are so efficient because they have a unique function of creating a prototype property. This basically means that changes made to a class pertain to every instance of that classes function. 
+* Constructors - these are classes, objects with more functionality than a standard object. They can be save a lot of memory and speed up code processes.

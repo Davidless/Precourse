@@ -1,0 +1,5 @@
+* Objects - similar to arrays, but instead of holding multiple points of data, objects are containers for data about one thing
+* Properties - properties are attributes given to objects.
+* Methods - functions saved on an object, most notably .length, .push, .pop, etc...
+* for in loop - used for objects, for in loop is used when we need to iterate over keys in an object.
+* Dot notation vs bracket notation - these are two ways in which we access values through notation. dot notation is when we use a period before a method; bracket notation is like calling an item on an array, and these are often seen with a variable pointing to a string or number.
