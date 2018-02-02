@@ -1,0 +1,3 @@
+* `for` - for loops are similar to the "if" statement in that they will iterate over a variable using other expressions to find a false solution.
+* `&&`, `||`, `!` - double ampersand is "and", long bars is "or" and the exclamation is "NOT", essentially meaning the opposite value.
+* Arrays - arrays consist of multiple data points that can be accessed from anywhere in the code as long as the array exists in the global scope.
